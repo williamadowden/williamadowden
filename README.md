@@ -1,8 +1,9 @@
-## I am Will Dowden
-Welcome to my trainwreck.
-- I am learning Python
-- I am studying Computer Science at Sierra College
-- I don't know what I'm doing
+## Hey, I'm Will!
+I am a Mathematics and Computer Science student, Audio Engineer, and Musician based in Eugene, OR.
+My main interests include:
+- Developing creative and utilitarian audio software
+- Developing tools that make our information ecosystem a healthier place
+- Frogs
 
 <!---
 williamadowden/williamadowden is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
